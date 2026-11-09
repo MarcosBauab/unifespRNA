@@ -4,7 +4,7 @@ Disciplina: Introdução às Redes Neurais Artificiais
 
 Autor: Marcos Vinicius Gasparoto Bauab (RA: 156.717)
 
-Código reprodutível: fashion_mnist_vae_web.ipynb. Notebook: https://colab.research.google.com/drive/1U_Eh5dXnomUTwb4-X-XldgXuLPYkC9Ei (acesso conforme as permissões do autor).
+Repositório / Código reprodutível: https://github.com/MarcosBauab/unifespRNA/tree/main
 
 ## Resumo
 
